@@ -11,3 +11,11 @@ person.firstName + " is " + person.age + " years old.";
 document.getElementById("stamp").innerHTML = 
 person.firstName + " " + 
 person.lastName + " has " + person.eyeColor + " eyes.";
+
+function myFunction() {
+    document.getElementById("button-demo").innerHTML = "Hello World";
+  }
+
+
+
+

@@ -1,0 +1,14 @@
+$primary_btn : #89ebac;
+$hover_btn : yellow;
+
+body {
+background-color: white;
+
+}
+
+button {
+ background: $primary_btn;
+    &:hover {
+        background: $hover_btn;
+    }
+}

@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+}
+
+button {
+  background: #89ebac;
+}
+
+button:hover {
+  background: yellow;
+}
+/*# sourceMappingURL=styles.min.css.map */
